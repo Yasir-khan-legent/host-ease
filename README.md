@@ -1,1 +1,1 @@
-# host-ease
+First SMIT Project
